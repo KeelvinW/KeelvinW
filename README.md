@@ -4,8 +4,8 @@
 <br>
 <div align="center">
   <a href=https://github.com/KeelvinW/KeelvinW">
-  <img align="center" width="430px" src="https://github-readme-stats.vercel.app/api?username=KeelvinW&show_icons=true,css&layout=compact&theme=transparent" />
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeelvinW&layout=compact&theme=transparent" />
+  <img align="center" width="380px" src="https://github-readme-stats.vercel.app/api?username=KeelvinW&show_icons=true,css&layout=compact&theme=transparent" />
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeelvinW&layout=compact&theme=transparent" />
 </div>
 <br>
 
