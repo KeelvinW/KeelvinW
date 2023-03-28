@@ -6,3 +6,5 @@
   <img  width="400px" src="https://github-readme-stats.vercel.app/api?username=KeelvinW&show_icons=true,css&layout=compact&theme=dark" />
   <img  width="445px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeelvinW&layout=compact&theme=dark" />
 </div>
+
+![Snake animation](https://github.com/KeelvinW/KeelvinW/blob/output/github-contribution-grid-snake.svg)
