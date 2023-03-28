@@ -2,7 +2,10 @@
 
 <p>Olá, meu nome é Kelvin! Com mais de 7 anos de experiência trabalhando com o público, desenvolvi diversas Softskills como boa comunicação, trabalho em equipe e proatividade, que me auxiliaram na transição de carreira para a área da tecnologia. Fazendo o curso de desenvolvedor Java Fullstack pela Generation descobri que minha área de melhor compatibilidade é o Back end. Desenvolvi diversas Hardskills e trabalhei com diferentes plataformas, tendo como principais a IDE eclipse, framework Spring Boot, o banco de dados MySLQ, Fundamentos WEB e React.</p>
 <br>
-
+<div align="center">
+  <img  align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=KeelvinW&show_icons=true,css&layout=compact&theme=dark" />
+  <img  align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeelvinW&layout=compact&theme=dark" />
+</div>
 <br><br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=denervercosa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
